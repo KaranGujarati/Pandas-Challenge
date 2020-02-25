@@ -2,7 +2,7 @@
 
 This repository contains an analysis of the fantasy game, Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
-## Objective was to turn Purchase data into meaningful insights. The data was analyzed using Python and a Jupyter Notebook.
+Objective was to turn Purchase data into meaningful insights. The data was analyzed using Python and a Jupyter Notebook.
 
 ## Data Analysis parameters:
 
