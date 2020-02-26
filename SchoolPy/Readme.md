@@ -1,4 +1,4 @@
-### ACADEMY OF PY
+### SchoolPy
 
 Objective of this task was to analyze the district-wide standardized test results. Also, aggregated data and showcased obvious trends in school performance.
 
