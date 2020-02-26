@@ -1,6 +1,6 @@
-### Heroes of Pymoli - Pandas challenge
+### AgeOfPy - Pandas challenge
 
-This repository contains an analysis of the fantasy game, Heroes of Pymoli. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
+This repository contains an analysis of the fantasy game, AgeOfPy. Like many others in its genre, the game is free-to-play, but players are encouraged to purchase optional items that enhance their playing experience.
 
 Objective was to turn Purchase data into meaningful insights. The data was analyzed using Python and a Jupyter Notebook.
 
@@ -59,7 +59,7 @@ Most Profitable Items - Ientified the 5 most profitable items by total purchase 
   - Total Purchase Value
 
 
-Three observable trends based on the data for the Heros of Pymoli are as follows:
+Three observable trends based on the data for the AgeOfPy are as follows:
 1.	GENDER
 •	There are 576 total players, of which, 81 are female, and 484 are male. 11 have not disclosed their genders. The average purchase price is the highest in the undisclosed group, and the female group follows. However, the highest total purchase value is from the male group due to simply the size of the group. 
 
